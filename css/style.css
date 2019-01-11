@@ -1,0 +1,122 @@
+body {
+    font-family: 'sans', Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: auto;
+}
+
+#main-header{
+    padding: 10px 20px 0 0;
+
+}
+
+#main-header i{
+    color: #666;
+    padding: 15px 20px 0 0;
+    font-size: 1.1rem;
+
+}
+
+#main-header p{
+    padding: 0;
+    margin: 0;
+    padding: 15px 20px 0 0; 
+}
+
+#main-header i.fa-user-circle{
+    font-size: 2rem;
+    padding-top: 5px;
+}
+
+/* main section */
+
+.wrapper{
+    height: 80vh;
+    margin: auto;
+}
+
+.logo {
+    font-size: 80px;
+    margin: 0;
+    padding: 0;
+}
+
+.G, .G2{
+    color: #338aff;
+}
+
+.O, .E {
+    color: #ff4933;
+}
+
+.O2 {
+    color: #ffc133;
+}
+
+.L {
+    color: #2da438;
+}
+
+.wrapper input{
+    display: inline-block;
+    width: 580px;
+    height: 40px;
+    margin: 20px;
+    box-shadow: #e9e9e9 3px 3px 3px 3px;
+}
+
+.wrapper a{
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.btn {
+    padding: 20px;
+}
+.btn a{
+    display: inline-block;
+    padding: 10px 12px;
+    text-decoration: none;
+    background: #f4f4f4;
+    color: #777;
+    margin: 0 3px;
+}
+
+.btn a:hover{
+    color: #333;
+    border: 1px solid #888;
+}
+
+
+footer {
+    background: #ececec;
+    height: 100%;
+    padding: 20px;
+}
+
+.first {
+    border-bottom: 1px solid #dadada;
+    padding:0 0 10px 0;
+    height: 100%;
+    width: 100%;
+}
+
+.second {
+    padding:0 0 10px 0;
+    height: 100%;
+    width: 100%;
+}
+
+.first p{
+    margin: 0;
+    padding-left: 35px; 
+}
+
+.second p{
+    margin: 0;
+    padding: 0 20px;
+    display: inline-block;
+}
+
+.second p{
+    margin-top: 20px;
+}
